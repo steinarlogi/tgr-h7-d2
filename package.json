@@ -1,0 +1,23 @@
+{
+  "name": "hd7d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hallway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browser-sync start --server --files *.html *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steinarlogi/tgr-h7-d2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steinarlogi/tgr-h7-d2/issues"
+  },
+  "homepage": "https://github.com/steinarlogi/tgr-h7-d2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.9"
+  }
+}
